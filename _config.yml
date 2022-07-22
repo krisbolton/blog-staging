@@ -8,7 +8,7 @@ header_pages:
   - projects.md
   - resources.md
 
-footer: '&copy; <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="Creative Commons Attribution 4.0 License">CC BY 4.0</a> | <a href="/privacy">privacy</a> | <a href="">contact</a>'
+footer: '&copy; <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="Creative Commons Attribution 4.0 License">CC BY 4.0</a> | <a href="/privacy" target="_blank">privacy</a> | <a href="" target="_blank">twitter</a>'
 
 style: light
 
