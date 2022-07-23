@@ -8,17 +8,7 @@ permalink: /resources
 
 A page of things you may find useful.
 
-## International Standards
+## Futures and Forecasting Resources
 
-When designing business programmes, management systems, or looking to improve areas, international standards provide a blueprint of requirements to work towards a known good state. Here's a list of ISO standards for information security: 
+<a href="https://github.com/krisbolton/Future-Forecasting-and-Prediction" target="">Futures Forecasting and Prediction</a> - a GitHub repository containing open source educational materials, guides, tutorials, tool kits and manuals, discussing futures methodologies I have collected from a variety of sources, including Government, research and the private sector.
 
-- ISO 27001
-- ISO 27002
-- ISO 27017
-- ISO 27018
-
-### Futures
-
-#### Test
-
-Test sandwhich
