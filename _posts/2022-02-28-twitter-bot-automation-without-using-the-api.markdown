@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter Bot Automation Without Using the API
+title: Twitter Bot Automation Without the API
 description: This post briefly explores the creation of tiwtter bots which don't use Twitter's API and appear to be normal users...
 date:   2022-02-28 15:57:00 +0000
 tags:   [twitter, bots, disinformation]

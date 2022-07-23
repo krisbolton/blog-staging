@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Quick Introduction to Artificial Neural Networks (Part 1)
+title:  A Quick Introduction to ANN (Part 1)
 description: Artificial neurons mimic the basic function of biological neurons, and much like their biological counterparts they only become useful when connected in a larger network, called Artificial Neural Networks...
 date:   2018-04-09 15:01:35 +0000
 image:  '/images/posts/2018/neuron-annotated.jpg'

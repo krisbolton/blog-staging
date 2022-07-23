@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Experimenting with the Modern Honeypot Network (MHN)
+title:  Experimenting with Honeypots
 description: MHN is an open-source centralized server for managing honeypots, making deployment and data collection simple and fast. My goal was to collect malware and aggregate statistics....
 date:   2020-04-22 15:00:00 +0000
 image:  '/images/posts/2020/honeypot-map.png'
@@ -9,7 +9,7 @@ tags:   [honeypot, malware]
 
 <style>p { text-align: justify; }</style>
 
-[MHN](https://github.com/pwnlandia/mhn) is an open-source centralized server for managing honeypots, making deployment and data collection simple and fast. MHN currently supports a number of honeypot types, check out the [list of supported sensors](https://github.com/pwnlandia/mhn/wiki/List-of-Supported-Sensors) for details, they also allow [adding new sensors](https://github.com/pwnlandia/mhn/wiki/Add-Support-for-New-Sensors-to-the-MHN) should you wish.
+[MHN](https://github.com/pwnlandia/mhn) is an open-source centralised server for managing honeypots, making deployment and data collection simple and fast. MHN currently supports a number of honeypot types, check out the [list of supported sensors](https://github.com/pwnlandia/mhn/wiki/List-of-Supported-Sensors) for details, they also allow [adding new sensors](https://github.com/pwnlandia/mhn/wiki/Add-Support-for-New-Sensors-to-the-MHN) should you wish.
 
 **Update: The Modern Honey Network (MHN) is sporadically maintained. A community fork has been created by a small group, I recommend using their fork; the [Community Honey Network](https://communityhoneynetwork.readthedocs.io/en/stable) ([GitHub Repo](https://github.com/CommunityHoneyNetwork/CHN-Server)).**
 

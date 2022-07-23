@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Quick Introduction to Artificial Neural Networks (Part 2)
+title:  A Quick Introduction to ANN (Part 2)
 description: This part will discuss activation functions. Activation functions set a threshold which determines the frequency at which artificial neurons fire (their output). In biological neurons...
 date:   2018-06-05 15:00:00 +0000
 image:  '/images/posts/2018/sigmoid-activation-function.jpg'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Practical Introduction to Neural Networks with Python
+title:  A Practical Introduction to Neural Networks
 description: Neural networks are adept at recognising patterns, this is pattern recognition is the reason they have become so widely used and talked about in recent years...
 date:   2018-08-22 15:00:00 +0000
 image:  '/images/posts/2018/clement-h-544786-unsplash.jpg'
