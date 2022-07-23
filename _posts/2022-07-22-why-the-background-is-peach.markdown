@@ -107,6 +107,10 @@ You can also see in the chart above, peach has the least variance between partic
 	<li>Cool background colours, such as blue grey, blue, and green decrease readability.</li>
 </ul>
 
+## Final words
+
+Consider how you can improve the readability of your website and focus on your content. What steps could you take to help your users?
+
 ## References
 
 <ol>
