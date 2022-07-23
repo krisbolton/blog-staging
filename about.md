@@ -12,6 +12,6 @@ I use this website to share the knowledge and experience I have gained through m
 
 I'm passionate about information security, both the technical side and GRC side, in which I work. I use personal projects to retain and improve my technical skills and knowledge. 
 
-I run <a href="">Security Kiwi</a>, a free website of courses containing the knowledge I gained through degrees and from my own learning.
+I run <a href="https://security.kiwi">Security Kiwi</a>, a free website of courses containing the knowledge I gained through degrees and from my own learning.
 
-You can follow me on Twitter <a href="">@KrisBolton<a/>.
+You can follow me on Twitter <a href="https://www.twitter.com/krisbolton">@KrisBolton<a/>.
