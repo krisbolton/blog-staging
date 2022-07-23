@@ -18,7 +18,7 @@ The authors, Rello, L., and Bigham, J. of Carnegie Melon in the US, tested the r
 
 ## Colour Choices
 
-The ten colours are distinct and designed for black text:
+The ten colours discussed in the research article are distinct and designed for black text:
 
 <table class="styled-table">
     <thead>
