@@ -6,4 +6,6 @@ permalink: /projects
 
 # Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Security Kiwi (https://security.kiwi)
+
+<a href="" target="_blank">Security Kiwi</a> is an <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">Flask</a> web application I created to host free courses which I make relating to information security. Currently, the primary material on Security Kiwi is a course introducing readers to machine learning for security. It teaches how to collect, clean and prepare suitable data, and several chapters introduction to basic machine learning methods and techniques. 
