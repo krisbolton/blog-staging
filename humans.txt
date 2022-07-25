@@ -1,0 +1,13 @@
+/* WHOAMI */
+
+Name: Kris Bolton
+Site https://krisbolton.com
+Twitter: krisbolton
+Location: United Kingdom
+
+/* THANKS */
+
+Thanks to b2a3e8 'Bryan' for creating the template on which krisbolton.com is based, 'jekyll-theme-console'. Available at: https:/github.com/b2a3e8/jekyll-theme-console.
+
+Thanks to Plausible Analytics, a privacy-friendly website analytics SaaS. https://plausiple.io.
+ 
