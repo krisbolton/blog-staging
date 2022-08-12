@@ -4,7 +4,7 @@ layout: default
 
 <div>
 	<h1> {{ page.title | escape }} </h1>
-	<div class="post-read-time">{% assign words = page.content | number_of_words %} {% if words < 360 %} 1 min read {% else %} {{ words | divided_by:170 }} min read {% endif %}</div>
+	<div class="post-read-time">Published on <time datetime="{{ page.date | date_to)xmlschema }}">{{ page.date | date_to_long_string }}</time> - {% assign words = page.content | number_of_words %} {% if words < 360 %} 1 min read {% else %} {{ words | divided_by:170 }} min read {% endif %}</div>
 </div>
 
 <div>
